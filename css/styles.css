@@ -1,0 +1,71 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+}
+.card {
+  border: 1px solid grey;
+  padding: 14px;
+  margin: auto;
+  box-shadow: 10px 10px 20px #dcdcdc;
+  width: 304px;
+  justify-content: center;
+  align-content: center;
+  border-radius: 5px;
+}
+.animalName {
+  border: 1px solid transparent;
+  padding: 4px;
+  margin: auto;
+  background-color: white;
+}
+#animalPicture {
+  border: 1px solid grey;
+  padding: 1px;
+  margin: 15px auto;
+  width: 300px;
+  height: 200px;
+  display: block;
+  background-color: white;
+}
+.information {
+  border: 1px solid grey;
+  padding: 4px;
+  margin: auto; 
+  justify-content: center;
+  text-align: justify;
+  align-content: center;
+  background-color: #f1ecec;
+}
+.interesting {
+  border: 1px hidden #f1ecec;
+  padding: 4px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-bottom: 0px;
+  margin-right: auto;
+  font-style: italic;
+  font-size: 15px;
+  justify-content: center;
+  text-align: justify;
+  align-content: center;
+}
+#list {
+  border: 1px hidden #f1ecec;
+  padding: 4px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-bottom: 0px;
+  margin-right: auto;
+  list-style: none;
+  font-size: 14px;
+}
+.characteristic {
+  font-weight: bold;
+  font-size: 14px;
+}
+.description {
+  border: 1px hidden #f1ecec;
+  padding: 4px;
+  margin: auto;
+  font-size: 15px;
+  text-align: justify;
+}
